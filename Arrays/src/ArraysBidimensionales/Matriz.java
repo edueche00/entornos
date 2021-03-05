@@ -33,6 +33,7 @@ public class Matriz {
 <<>	
 	////////////////////////////////
 	public void leerMatriz() throws IOException
+	
 	{
 		int i = 0,0;
 		char letra = (char)System.in.read();	
@@ -47,3 +48,5 @@ public class Matriz {
 	}
 	}
 -85n
+
+//Este fichero ya esta editado
